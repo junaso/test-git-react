@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          test today
+          test yesterday
         </a>
       </header>
     </div>
